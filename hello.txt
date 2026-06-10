@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-jello hii
-=======
-Hello  ---
->>>>>>> 4b835addb2fc361ad8a7ea89f2a03975d089f242
